@@ -1,2 +1,3 @@
 # F1-Predicting-v1
 This algorithm predicts f1 results for upcoming races, it's showing potential but not ready or smart enough to make reliable predictions, Major updates coming soon...
+PS: Past race data not available in the files, will upload example results of the code running using full data
