@@ -1,0 +1,2 @@
+# Formula 1 Perfotmance Review
+#In this project I would like to create a program that predicts the winner of a specific Formula 1 Grand Prix. How? The program takes into account track length, Car Speed on turns vs Straights, Battery consumption rate (based on data from the first 3 races of the 2026 Formula 1 Season). Hotlaps, Equipment Wear(engine, gearbox, battery etc...), Possible failures, driver behaviour, weather(ability to drive in harsh weather conditions), New FIA regulations.
